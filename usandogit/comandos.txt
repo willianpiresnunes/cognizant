@@ -11,6 +11,7 @@ proxy.cognizant.com
 [http]
     sslVerify = false
     proxy = http://yourproxyaddress.com:8080
+ok
 
 e tambem o: git config http.sslVerify false;
 
